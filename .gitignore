@@ -1,0 +1,19 @@
+# Environment variables and secrets
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Local databases (optional, but keep repo clean)
+*.db-journal
